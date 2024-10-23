@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="net.sourceforge.tess4j.ITesseract"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="net.sourceforge.tess4j.Tesseract"/>
+    <fullyQualifiedTypeName name="com.lecture.dto.AiDataDTO"/>
+    <fullyQualifiedTypeName name="com.lecture.onnx.TestMainOnnx"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

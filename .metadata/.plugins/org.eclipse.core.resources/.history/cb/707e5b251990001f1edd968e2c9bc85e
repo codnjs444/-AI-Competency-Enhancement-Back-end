@@ -1,0 +1,10 @@
+package com.lecture.dto;
+
+public class AiDataDTO {
+	int ai_x;
+	int ai_y;
+	int ai_w;
+	int ai_h;
+	
+	String classNm;
+}

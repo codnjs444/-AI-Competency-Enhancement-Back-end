@@ -1,0 +1,5 @@
+package com.lecture.dto;
+
+public class AiDataDTO {
+
+}
